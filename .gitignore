@@ -28,7 +28,6 @@ ENV/
 
 # Project specific
 vector_store/
-lectures/
 *.log
 .ipynb_checkpoints/
 
