@@ -134,9 +134,8 @@ IT21247804-Assignment-02-chatbot/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-- IT21247804
-- Current Trends in Software Engineering (SE4010)
-- Assignment 2
+- IT21247804 - Baddewithana P
+- For Current Trends in Software Engineering (SE4010) Assignment 2
 
 ## Acknowledgments
 - Google Gemini AI
