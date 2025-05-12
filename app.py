@@ -109,7 +109,7 @@ def extract_text_from_txt(txt_path):
         with open(txt_path, 'r', encoding='utf-8') as file:
             content = file.read()
             
-        # Optional: Add line numbering or structure to the content
+        # Add line numbering or structure to the content
         lines = content.split('\n')
         text_content = []
         
